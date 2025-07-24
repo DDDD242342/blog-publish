@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on DDDD242342</title>
-        <link>http://localhost:1313/hugo-dev/post/</link>
+        <link>https://DDDD242342.github.io/blog-publish/post/</link>
         <description>Recent content in Posts on DDDD242342</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>DDDD242342</copyright>
-        <lastBuildDate>Thu, 24 Jul 2025 17:09:18 +0800</lastBuildDate><atom:link href="http://localhost:1313/hugo-dev/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Text2</title>
-        <link>http://localhost:1313/hugo-dev/p/text2/</link>
-        <pubDate>Thu, 24 Jul 2025 17:09:18 +0800</pubDate>
+        <lastBuildDate>Thu, 24 Jul 2025 18:41:41 +0800</lastBuildDate><atom:link href="https://DDDD242342.github.io/blog-publish/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Text</title>
+        <link>https://DDDD242342.github.io/blog-publish/p/text/</link>
+        <pubDate>Thu, 24 Jul 2025 18:41:41 +0800</pubDate>
         
-        <guid>http://localhost:1313/hugo-dev/p/text2/</guid>
+        <guid>https://DDDD242342.github.io/blog-publish/p/text/</guid>
         <description></description>
         </item>
         
