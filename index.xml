@@ -7,13 +7,45 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>DDDD242342</copyright>
-        <lastBuildDate>Thu, 24 Jul 2025 18:41:41 +0800</lastBuildDate><atom:link href="https://DDDD242342.github.io/blog-publish/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Text</title>
-        <link>https://DDDD242342.github.io/blog-publish/p/text/</link>
-        <pubDate>Thu, 24 Jul 2025 18:41:41 +0800</pubDate>
+        <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://DDDD242342.github.io/blog-publish/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>嵌入式学习路线</title>
+        <link>https://DDDD242342.github.io/blog-publish/p/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</link>
+        <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://DDDD242342.github.io/blog-publish/p/text/</guid>
-        <description></description>
+        <guid>https://DDDD242342.github.io/blog-publish/p/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</guid>
+        <description>&lt;img src="https://DDDD242342.github.io/blog-publish/p/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/CppTeam.jpg" alt="Featured image of post 嵌入式学习路线" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
+&lt;/h2&gt;&lt;p&gt;( ￣▽￣ )/&lt;/p&gt;
+&lt;p&gt;欢迎大家升入大学！&lt;/p&gt;
+&lt;p&gt;大学是发掘自己兴趣的绝佳时机&lt;/p&gt;
+&lt;p&gt;这是我们CPP团队为大家提供的学习路线&lt;/p&gt;
+&lt;p&gt;希望能为正在探索自己兴趣所在的各位提供一点帮助&lt;/p&gt;
+&lt;p&gt;当然，我们也非常欢迎有兴趣有能力同学加入我们CPP团队！&lt;/p&gt;
+&lt;h2 id=&#34;算法&#34;&gt;算法
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;算法是一个能帮助我们解决问题的工具&lt;br&gt;
+同时学习算法对我们日后也是很有帮助&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;推荐刷题网站：洛谷&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在 题单广场 中找到题单&lt;font color=&#34;blue&#34;&gt;&lt;em&gt;&lt;strong&gt;入门1-6&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;，尽可能多刷题目，编程语言任意，题解可以在每一道题的网页右上方（查看题解）。&lt;/p&gt;
+&lt;p&gt;学有余力可以继续学习进阶内容（模拟、排序、贪心、递归、搜索等）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;推荐刷题网站：力扣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你没有接触过算法，建议先尝试在题库中选择&lt;font color=&#34;blue&#34;&gt;&lt;em&gt;&lt;strong&gt;简单&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;以下难度的题目，力扣有很标准的答题规范（一般是按要求实现一个函数），做完可以通过运行检查是否有编译错误。&lt;/p&gt;
+&lt;p&gt;如果你能熟练运用 排序、递归、贪心、动态规划 等 进阶算法，可以开始做&lt;font color=&#34;blue&#34;&gt;&lt;em&gt;&lt;strong&gt;每日一题&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;和&lt;font color=&#34;blue&#34;&gt;&lt;em&gt;&lt;strong&gt;周赛&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;每日一题的难度较高，一般来自题库中的热门题目，有时可能涉及多方面的知识，做不出来属于正常现象，请不要灰心！可以看看大佬的题解，检查自己缺漏的知识点。&lt;/p&gt;
+&lt;p&gt;周赛需要你在 1 小时 30 分 内限时完成一般是4道题目，题目由易到难。周赛的频率是：每周日一次周赛，每两周六一次双周赛。&lt;/p&gt;
+&lt;h2 id=&#34;学习&#34;&gt;学习
+&lt;/h2&gt;&lt;h3 id=&#34;语言基础&#34;&gt;语言基础
+&lt;/h3&gt;&lt;p&gt;嵌入式主要使用C语言进行开发，所以打好语言基础是非常必要的&lt;/p&gt;
+&lt;p&gt;如果之前没学过，或者学过想复习的，这里推荐翁恺老师的C语言程序设计课程:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1dr4y1n7vA/?share_source=copy_web&amp;amp;vd_source=8333c663bbcebcb6cfda8ce9a0ebbf08&#34;  title=&#34;【浙江大学翁恺教你C语言程序设计！C语言基础入门！】&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;【浙江大学翁恺教你C语言程序设计！C语言基础入门！】&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;打好语言基础能为接下来的学习提供帮助&lt;/p&gt;
+&lt;h3 id=&#34;初步接触嵌入式&#34;&gt;初步接触嵌入式
+&lt;/h3&gt;</description>
         </item>
         <item>
         <title>归档</title>
@@ -46,7 +78,8 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://DDDD242342.github.io/blog-publish/%E5%8F%8B%E9%93%BE/</guid>
-        <description></description>
+        <description>&lt;p&gt;以下是其他方向的学习路线&lt;/p&gt;
+</description>
         </item>
         
     </channel>
