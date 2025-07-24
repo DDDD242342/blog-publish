@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>DDDD242342</title>
+        <link>http://localhost:1313/hugo-dev/</link>
+        <description>Recent content on DDDD242342</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>DDDD242342</copyright>
+        <lastBuildDate>Thu, 24 Jul 2025 17:09:18 +0800</lastBuildDate><atom:link href="http://localhost:1313/hugo-dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Text2</title>
+        <link>http://localhost:1313/hugo-dev/p/text2/</link>
+        <pubDate>Thu, 24 Jul 2025 17:09:18 +0800</pubDate>
+        
+        <guid>http://localhost:1313/hugo-dev/p/text2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>http://localhost:1313/hugo-dev/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/hugo-dev/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;是个人啦&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>http://localhost:1313/hugo-dev/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/hugo-dev/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友链</title>
+        <link>http://localhost:1313/hugo-dev/%E5%8F%8B%E9%93%BE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/hugo-dev/%E5%8F%8B%E9%93%BE/</guid>
+        <description>&lt;p&gt;前端 &lt;a class=&#34;link&#34; href=&#34;https://blog.longfish.site/articles/148#8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blog.longfish.site/articles/148#8&lt;/a&gt;
+后端 &lt;a class=&#34;link&#34; href=&#34;https://blog.longfish.site/articles/148#90&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blog.longfish.site/articles/148#90&lt;/a&gt;
+移动端 &lt;a class=&#34;link&#34; href=&#34;https://blog.longfish.site/articles/148#161&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blog.longfish.site/articles/148#161&lt;/a&gt;
+UI &lt;a class=&#34;link&#34; href=&#34;https://blog.longfish.site/articles/148#178&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blog.longfish.site/articles/148#178&lt;/a&gt;
+CV &lt;a class=&#34;link&#34; href=&#34;https://blog.longfish.site/articles/148#218&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blog.longfish.site/articles/148#218&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
