@@ -230,6 +230,10 @@
       <ol>
         <li><a href="#语言基础">语言基础</a></li>
         <li><a href="#初步接触嵌入式">初步接触嵌入式</a></li>
+        <li><a href="#进阶">进阶</a></li>
+        <li><a href="#拓展">拓展</a></li>
+        <li><a href="#其他">其他</a></li>
+        <li><a href="#结尾">结尾</a></li>
       </ol>
     </li>
   </ol>
@@ -341,15 +345,55 @@
 <p>每日一题的难度较高，一般来自题库中的热门题目，有时可能涉及多方面的知识，做不出来属于正常现象，请不要灰心！可以看看大佬的题解，检查自己缺漏的知识点。</p>
 <p>周赛需要你在 1 小时 30 分 内限时完成一般是4道题目，题目由易到难。周赛的频率是：每周日一次周赛，每两周六一次双周赛。</p>
 <h2 id="学习">学习
-</h2><h3 id="语言基础">语言基础
+</h2><ul>
+<li>学习嵌入式的过程更像是边学，边试，边烧元件（不是）</li>
+<li>可以在学习过程中尝试完成一些小项目，或者是打打比赛，提高自己的能力</li>
+<li>要有能将天马行空的想象化为现实的决心</li>
+</ul>
+<h3 id="语言基础">语言基础
 </h3><p>嵌入式主要使用C语言进行开发，所以打好语言基础是非常必要的</p>
 <p>如果之前没学过，或者学过想复习的，这里推荐翁恺老师的C语言程序设计课程:</p>
 <p><a class="link" href="https://www.bilibili.com/video/BV1dr4y1n7vA/?share_source=copy_web&amp;vd_source=8333c663bbcebcb6cfda8ce9a0ebbf08"  title="【浙江大学翁恺教你C语言程序设计！C语言基础入门！】"
      target="_blank" rel="noopener"
     >【浙江大学翁恺教你C语言程序设计！C语言基础入门！】</a></p>
 <p>打好语言基础能为接下来的学习提供帮助</p>
+<ul>
+<li>学习嵌入式，遇到听不懂，看不懂是很正常的。多看几次，多想，多思考。</li>
+</ul>
 <h3 id="初步接触嵌入式">初步接触嵌入式
-</h3>
+</h3><p>通过学习51单片机了解嵌入式：</p>
+<p><a class="link" href="https://www.bilibili.com/video/BV1Mb411e7re/?share_source=copy_web&amp;vd_source=8333c663bbcebcb6cfda8ce9a0ebbf08"  title="【51单片机入门教程-2020版 程序全程纯手打 从零开始入门】"
+     target="_blank" rel="noopener"
+    >【51单片机入门教程-2020版 程序全程纯手打 从零开始入门】</a></p>
+<p>当你学习完后，可以尝试制作一辆遥控小车（比如使用蓝牙遥控小车）</p>
+<h3 id="进阶">进阶
+</h3><p>学习完51单片机后，你已经初步了解了嵌入式是什么，这时候推荐学习stm32：</p>
+<p><a class="link" href="https://www.bilibili.com/video/BV1th411z7sn/?share_source=copy_web&amp;vd_source=8333c663bbcebcb6cfda8ce9a0ebbf08"  title="【STM32入门教程-2023版 细致讲解 中文字幕】"
+     target="_blank" rel="noopener"
+    >【STM32入门教程-2023版 细致讲解 中文字幕】</a></p>
+<p>它功能相对于51单片机来讲，更加强大，但也意味着它的学习难度更高，要做好心理准备</p>
+<p>当然，你也可以开始学着写一些小项目，你可以试着用stm32再制作一辆遥控小车，看看他们的区别，也可以尝试做一些其他的有意思的项目。相信我，只有你想不到，没有它做不到的</p>
+<p>学习过程中，你可能会问：主播主播，你的keil确实稳定，但是不太好用，有没有更好用的开发工具呢。有的兄弟，有的，这里推荐使用vscode（有点邪门，但是还挺好用的，凭个人喜好）:</p>
+<p><a class="link" href="https://www.bilibili.com/video/BV1nr4y1R7Jb/?share_source=copy_web&amp;vd_source=8333c663bbcebcb6cfda8ce9a0ebbf08"  title="【VSCode&#43;EIDE开发STM32，支持标准库、HAL库、LL库，可以在VSCode里进行调试，编译以及下载，代码编辑更舒适，环境搭建超简单。】"
+     target="_blank" rel="noopener"
+    >【VSCode+EIDE开发STM32，支持标准库、HAL库、LL库，可以在VSCode里进行调试，编译以及下载，代码编辑更舒适，环境搭建超简单。】</a></p>
+<h3 id="拓展">拓展
+</h3><p>学习完stm32后，你或许会想，难度如此大的stm32也不过如此。目前你使用stm32开发的过程都属于裸机开发，那我装上一个操作系统呢？这个阶段属于深入了解stm32，学习它的内部运行，同时也可以帮助你了解计算机的底层，毕竟单片机可以看做小型计算机</p>
+<p>操作系统可以分为通用操作系统（windows就是属于通用操作系统）和实时操作系统</p>
+<p>这里推荐学习FreeRtos，它是一个实时操作系统，免费，适合我们学习，而且也有关于stm32-FreeRtos的教程:</p>
+<p><a class="link" href="https://www.bilibili.com/video/BV1pa411K7vb/?share_source=copy_web&amp;vd_source=8333c663bbcebcb6cfda8ce9a0ebbf08"  title="【【普中】STM32 FreeRTOS实时操作系统】"
+     target="_blank" rel="noopener"
+    >【【普中】STM32 FreeRTOS实时操作系统】</a></p>
+<p>当然最终目的你可以定为自己写一个Rtos，这也代表你已经熟练掌握了stm32</p>
+<h3 id="其他">其他
+</h3><p>这一部分自由选择学习</p>
+<ol>
+<li>学习画PCB（自选）</li>
+<li>学习焊接电路（这还是挺重要的）</li>
+</ol>
+<h3 id="结尾">结尾
+</h3><p>接下来，你可以选择学习其他单片机，也可以学习如何将linux部署在stm32（相当于学习linux了），学习什么在于你自己</p>
+
 </section>
 
 
